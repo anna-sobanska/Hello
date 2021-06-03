@@ -2,12 +2,14 @@
 
 void Log(const char* message);
 void Calculator();
+void bmiCalculator();
 
 
 int main() 
 {
 	Log("Hello World");
-	Calculator();
+	//Calculator();
+	bmiCalculator();
 	std::cin.get();
 }
 

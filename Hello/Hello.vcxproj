@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="bmiCalculator.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="SweetsCalculator.cpp" />
