@@ -14,5 +14,5 @@ void Calculator()
 
 	sweetsForYou = sweets % (students - 1);
 
-	std::cout << "You have " << sweetsPerStudent << " sweets for one student and " << sweetsForYou << " sweets for you.";
+	std::cout << "You have " << sweetsPerStudent << " sweets for one student and " << sweetsForYou << " sweets for you." << std:: endl;
 }
