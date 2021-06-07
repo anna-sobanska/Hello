@@ -22,6 +22,7 @@
     <ClCompile Include="bmiCalculator.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="Log.cpp" />
+    <ClCompile Include="numberFromASCII.cpp" />
     <ClCompile Include="SweetsCalculator.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
