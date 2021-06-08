@@ -10,9 +10,9 @@ void evenOddNumber();
 int main() 
 {
 	Log("Hello World");
-	//numberFromASCII();
-	//Calculator();
-	//bmiCalculator();
+	numberFromASCII();
+	Calculator();
+	bmiCalculator();
 	evenOddNumber();
 	system("pause > 0");
 }
