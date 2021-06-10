@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="bmiCalculator.cpp" />
     <ClCompile Include="evenOddNumber.cpp" />
+    <ClCompile Include="guessingGamecpp.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="numberFromASCII.cpp" />
