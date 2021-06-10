@@ -23,6 +23,7 @@
     <ClCompile Include="evenOddNumber.cpp" />
     <ClCompile Include="guessingGamecpp.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
+    <ClCompile Include="leapYear.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="numberFromASCII.cpp" />
     <ClCompile Include="SweetsCalculator.cpp" />

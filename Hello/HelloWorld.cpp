@@ -6,11 +6,13 @@ void bmiCalculator();
 void numberFromASCII();
 void evenOddNumber();
 void guessingGame();
+void leapYear();
 
 
 int main() 
 {
 	Log("Hello World");
+	leapYear();
 	guessingGame();
 	numberFromASCII();
 	Calculator();
