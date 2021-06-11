@@ -7,11 +7,13 @@ void numberFromASCII();
 void evenOddNumber();
 void guessingGame();
 void leapYear();
+void counterLoop();
 
 
 int main() 
 {
 	Log("Hello World");
+	counterLoop();
 	leapYear();
 	guessingGame();
 	numberFromASCII();

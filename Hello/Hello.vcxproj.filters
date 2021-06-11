@@ -39,5 +39,8 @@
     <ClCompile Include="leapYear.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="counterLoop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
