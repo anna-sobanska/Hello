@@ -9,6 +9,6 @@ void numberFromASCII() {
 		std::cin >> letters[i];
 	}
 
-	std::cout << "ASCII message: " << int(letters[0]) << " " << int(letters[1]) << " " << int(letters[2]) << " " << int(letters[3]) << " " << int(letters[4]) << std::endl;
+	std::cout << "This is your ASCII code: " << int(letters[0]) << " " << int(letters[1]) << " " << int(letters[2]) << " " << int(letters[3]) << " " << int(letters[4]) << std::endl;
 	
 }
