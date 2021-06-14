@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bmiCalculator.cpp" />
     <ClCompile Include="counterLoop.cpp" />
     <ClCompile Include="evenOddNumber.cpp" />
     <ClCompile Include="guessingGamecpp.cpp" />
@@ -27,7 +26,6 @@
     <ClCompile Include="leapYear.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="numberFromASCII.cpp" />
-    <ClCompile Include="SweetsCalculator.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
