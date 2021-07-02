@@ -24,17 +24,5 @@
     <ClCompile Include="numberFromASCII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="evenOddNumber.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="guessingGamecpp.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="leapYear.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="counterLoop.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
