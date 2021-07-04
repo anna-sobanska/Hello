@@ -2,12 +2,14 @@
 
 void Log(const char* message);
 void numberFromASCII();
+void enterName();
 
 
 int main() 
 {
 	Log("Hello World");
-	numberFromASCII();
+	//numberFromASCII();
+	enterName();
 	std::cout << "Bye!" << std::endl;
 	system("pause > 0");
 }

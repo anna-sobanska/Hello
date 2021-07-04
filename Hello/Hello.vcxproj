@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="enterName.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="numberFromASCII.cpp" />

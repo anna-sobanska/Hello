@@ -24,5 +24,8 @@
     <ClCompile Include="numberFromASCII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="enterName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
