@@ -27,5 +27,8 @@
     <ClCompile Include="enterName.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="wordReversal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
