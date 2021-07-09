@@ -30,5 +30,8 @@
     <ClCompile Include="wordReversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stringMethods.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -23,6 +23,7 @@
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="numberFromASCII.cpp" />
+    <ClCompile Include="stringMethods.cpp" />
     <ClCompile Include="wordReversal.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
